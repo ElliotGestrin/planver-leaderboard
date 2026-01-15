@@ -1,16 +1,15 @@
 [green_agent]
-agentbeats_id = ""
-env = { API_KEY = "${GITHUB_SECRET_NAME}", LOG_LEVEL = "INFO" }
+agentbeats_id = "019bc406-77f9-7a13-9fa6-ea6987e19db3"
+env = { }
 
 [[participants]]
 agentbeats_id = ""
-name = "role_1_name"
-env = {}
-
-[[participants]]
-agentbeats_id = ""
-name = "role_2_name"
+name = "planner"
 env = {}
 
 [config]
 # Add your assessment config here
+domains = ["barman", "blocksworld",  "childsnack", "gripper"]
+easy_count = 1
+medium_count = 1
+hard_count = 1
