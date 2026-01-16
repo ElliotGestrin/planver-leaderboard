@@ -8,7 +8,6 @@ name = "planner"
 env = {}
 
 [config]
-# Add your assessment config here
 domains = ["barman", "blocksworld",  "childsnack", "gripper"]
 easy_count = 1
 medium_count = 1
