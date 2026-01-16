@@ -1,0 +1,128 @@
+{
+  "participants": {
+    "planner": "019bc42f-e6fb-7a42-932f-4c56f5e06d6c"
+  },
+  "results": [
+    {
+      "total_tasks": 12,
+      "total_valid": 1,
+      "total_invalid": 11,
+      "total_errors": 0,
+      "overall_success_rate": 0.08333333333333333,
+      "domain_results": [
+        {
+          "domain": "barman",
+          "total_tasks": 3,
+          "valid_plans": 0,
+          "invalid_plans": 3,
+          "errors": 0,
+          "success_rate": 0.0,
+          "results_by_difficulty": {
+            "easy": {
+              "total": 1,
+              "valid": 0,
+              "invalid": 1,
+              "errors": 0
+            },
+            "medium": {
+              "total": 1,
+              "valid": 0,
+              "invalid": 1,
+              "errors": 0
+            },
+            "hard": {
+              "total": 1,
+              "valid": 0,
+              "invalid": 1,
+              "errors": 0
+            }
+          }
+        },
+        {
+          "domain": "blocksworld",
+          "total_tasks": 3,
+          "valid_plans": 1,
+          "invalid_plans": 2,
+          "errors": 0,
+          "success_rate": 0.3333333333333333,
+          "results_by_difficulty": {
+            "easy": {
+              "total": 1,
+              "valid": 1,
+              "invalid": 0,
+              "errors": 0
+            },
+            "medium": {
+              "total": 1,
+              "valid": 0,
+              "invalid": 1,
+              "errors": 0
+            },
+            "hard": {
+              "total": 1,
+              "valid": 0,
+              "invalid": 1,
+              "errors": 0
+            }
+          }
+        },
+        {
+          "domain": "childsnack",
+          "total_tasks": 3,
+          "valid_plans": 0,
+          "invalid_plans": 3,
+          "errors": 0,
+          "success_rate": 0.0,
+          "results_by_difficulty": {
+            "easy": {
+              "total": 1,
+              "valid": 0,
+              "invalid": 1,
+              "errors": 0
+            },
+            "medium": {
+              "total": 1,
+              "valid": 0,
+              "invalid": 1,
+              "errors": 0
+            },
+            "hard": {
+              "total": 1,
+              "valid": 0,
+              "invalid": 1,
+              "errors": 0
+            }
+          }
+        },
+        {
+          "domain": "gripper",
+          "total_tasks": 3,
+          "valid_plans": 0,
+          "invalid_plans": 3,
+          "errors": 0,
+          "success_rate": 0.0,
+          "results_by_difficulty": {
+            "easy": {
+              "total": 1,
+              "valid": 0,
+              "invalid": 1,
+              "errors": 0
+            },
+            "medium": {
+              "total": 1,
+              "valid": 0,
+              "invalid": 1,
+              "errors": 0
+            },
+            "hard": {
+              "total": 1,
+              "valid": 0,
+              "invalid": 1,
+              "errors": 0
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
