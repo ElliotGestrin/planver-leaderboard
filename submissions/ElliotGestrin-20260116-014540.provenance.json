@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/elliotgestrin/planver-green-agent@sha256:32d869168ba809f6c2d721db79254991da4a36820db88c6c5f97280547c0a784",
+    "planner": "ghcr.io/elliotgestrin/planver-purple-mock-agent@sha256:7329a926466fd180bbaf57f631b2c5bb566ed5eee601bf9013e2ece7cfb7c793",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-16T01:45:40Z",
+  "github_actions": {
+    "run_url": "https://github.com/ElliotGestrin/planver-leaderboard/actions/runs/21052706647",
+    "run_logs_url": "https://api.github.com/repos/ElliotGestrin/planver-leaderboard/actions/runs/21052706647/logs",
+    "ref": "refs/heads/agentbeats-test",
+    "sha": "a00c3433e5bfdb02a3788cac561c9ba26a6825ea",
+    "repository_url": "https://github.com/ElliotGestrin/planver-leaderboard",
+    "workflow_ref": "ElliotGestrin/planver-leaderboard/.github/workflows/run-scenario.yml@refs/heads/agentbeats-test",
+    "workflow_sha": "a00c3433e5bfdb02a3788cac561c9ba26a6825ea"
+  }
+}
