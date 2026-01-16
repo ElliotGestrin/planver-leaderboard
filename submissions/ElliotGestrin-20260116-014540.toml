@@ -1,0 +1,15 @@
+[green_agent]
+agentbeats_id = "019bc406-77f9-7a13-9fa6-ea6987e19db3"
+env = { }
+
+[[participants]]
+agentbeats_id = "019bc42f-e6fb-7a42-932f-4c56f5e06d6c"
+name = "planner"
+env = {}
+
+[config]
+# Add your assessment config here
+domains = ["barman", "blocksworld",  "childsnack", "gripper"]
+easy_count = 1
+medium_count = 1
+hard_count = 1
